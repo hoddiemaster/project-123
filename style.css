@@ -1,0 +1,15 @@
+body{
+    background:"set-abstaract-doddle-elements_6997-2360.jpg";
+}
+.copy_right_footer{
+    position: fixed;
+    background-color:black;
+    color: red;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 3;
+    width: 100%;
+    bottom:0;
+    text-align: center;
+  
+  }
